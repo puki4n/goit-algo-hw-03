@@ -20,3 +20,4 @@ def get_days_from_today(date):
     except ValueError:
         return "Неправильний формат дати"
 print(get_days_from_today("2025-12-09"))
+
